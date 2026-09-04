@@ -7,7 +7,7 @@ about:
   head: 782c202
   archived: false
   latestVersion: v0.5.0
-  collectedAt: 2026-09-04T19:19:25Z
+  collectedAt: 2026-09-04T21:17:25Z
 timeline:
   created: 2025-12-02
   lastCommit: 2026-09-04
@@ -85,5 +85,58 @@ total:
   openIssue: 0
   commit: 76
 ---
+path: /home/runner/.x-repo/github.com/steipete/camsnap
+collectedAt: 2026-09-04T21:17:25Z
+loc:
+  Go:
+    code: 6844
+    comments: 173
+    blanks: 710
+    files: 54
+  ObjectiveC:
+    code: 778
+    comments: 2
+    blanks: 108
+    files: 2
+  Sh:
+    code: 66
+    comments: 4
+    blanks: 12
+    files: 1
+  CHeader:
+    code: 40
+    comments: 0
+    blanks: 11
+    files: 2
+  Makefile:
+    code: 25
+    comments: 0
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 17
+    comments: 0
+    blanks: 1
+    files: 1
+  Json:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 680
+    blanks: 304
+    files: 11
+  Text:
+    code: 0
+    comments: 7
+    blanks: 0
+    files: 1
+total:
+  code: 8106
+  comments: 881
+  blanks: 1210
+  files: 74
 ---
 
