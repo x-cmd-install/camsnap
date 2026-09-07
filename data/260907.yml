@@ -5,7 +5,7 @@ about:
   head: 782c202
   archived: false
   latestVersion: "v0.5.0"
-  collectedAt: 2026-09-07T06:08:02Z
+  collectedAt: 2026-09-07T18:24:40Z
 timeline:
   created: 2025-12-02
   lastCommit: 2026-09-04
@@ -34,7 +34,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 9
+    commit: 0
   last60d:
     since: 2026-07-09
     release: 4
@@ -42,7 +42,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 22
+    commit: 0
   last90d:
     since: 2026-06-09
     release: 5
@@ -50,7 +50,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 27
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 6
@@ -58,7 +58,7 @@ recent:
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 41
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 7
@@ -66,7 +66,7 @@ recent:
     openPR: 0
     closedIssue: 3
     openIssue: 0
-    commit: 75
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 7
@@ -84,7 +84,7 @@ total:
   commit: 76
 ---
 path: /home/runner/.x-repo/github.com/steipete/camsnap
-collectedAt: 2026-09-07T06:08:03Z
+collectedAt: 2026-09-07T18:24:41Z
 loc:
   Go:
     code: 6844
@@ -140,7 +140,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:08:04+00:00
+  collectedAt: 2026-09-07T18:24:41+00:00
   platform:
     darwin/arm64:
       name:  camsnap_0.5.0_darwin_arm64.tar.gz
