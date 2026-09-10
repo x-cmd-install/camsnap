@@ -1,0 +1,12 @@
+- repo: freebsd
+  srcname: misc/camsnap
+  binname: camsnap
+  visiblename: misc/camsnap
+  version: 0.2.1
+  origversion: 0.2.1_5
+  status: unique
+  summary: CLI to access RTSP/ONVIF devices (e.g. IP cameras)
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - misc
