@@ -4,7 +4,7 @@
 
 CLI to capture snapshots, short clips, and run motion detection against RTSP/ONVIF came ras
 
-[![x-cmd/install — camsnap Code Quality Monitoring Repo Card](https://repo.x-cmd.io/camsnap.svg)](https://x-cmd.com/install/camsnap)
+[![x-cmd/install — camsnap Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/camsnap.svg)](https://x-cmd.com/install/camsnap)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install camsnap
 
 ## Code insight
 
-Total: **7,783** lines of code across **60** files in the top 5 languages.
+Total: **8,004** lines of code across **61** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,844 | 173 | 710 | 54 |
+| Go | 7,065 | 173 | 725 | 55 |
 | ObjectiveC | 778 | 2 | 108 | 2 |
 | Sh | 66 | 4 | 12 | 1 |
 | CHeader | 40 | 0 | 11 | 2 |
@@ -32,8 +32,8 @@ Total: **7,783** lines of code across **60** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.0` (2026-08-31)
-- **Last commit**: 2026-09-04
+- **Latest**: `v0.5.1` (2026-09-22)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,30 +42,30 @@ Total: **7,783** lines of code across **60** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 76
+- **Releases**: 8 · **Merged PRs**: 21 · **Open PRs**: 1 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 82
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 4 | 1 | 0 | 0 | 4 |
-| last60d | 2026-07-24 | 4 | 11 | 1 | 0 | 0 | 22 |
-| 90d | 2026-06-24 | 4 | 14 | 1 | 0 | 0 | 25 |
-| last180d | 2026-03-26 | 6 | 14 | 1 | 2 | 0 | 41 |
-| 360d | 2025-09-27 | 7 | 15 | 1 | 3 | 0 | 75 |
-| last720d | 2024-10-02 | 7 | 15 | 1 | 3 | 0 | 76 |
+| 30d | 2026-08-24 | 3 | 8 | 1 | 0 | 0 | 10 |
+| last60d | 2026-07-25 | 5 | 17 | 1 | 0 | 0 | 28 |
+| 90d | 2026-06-25 | 5 | 20 | 1 | 0 | 0 | 31 |
+| last180d | 2026-03-27 | 7 | 20 | 1 | 2 | 0 | 47 |
+| 360d | 2025-09-28 | 8 | 21 | 1 | 3 | 0 | 81 |
+| last720d | 2024-10-03 | 8 | 21 | 1 | 3 | 0 | 82 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [camsnap_0.5.0_darwin_amd64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.5.0/camsnap_0.5.0_darwin_amd64.tar.gz) | 4.7 MiB | `native/darwin/x64` |
-| [camsnap_0.5.0_darwin_arm64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.5.0/camsnap_0.5.0_darwin_arm64.tar.gz) | 4.2 MiB | `native/darwin/arm64` |
-| [camsnap_0.5.0_linux_amd64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.5.0/camsnap_0.5.0_linux_amd64.tar.gz) | 4.5 MiB | `native/linux/x64` |
-| [camsnap_0.5.0_linux_arm64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.5.0/camsnap_0.5.0_linux_arm64.tar.gz) | 4.0 MiB | `native/linux/arm64` |
-| [camsnap_0.5.0_windows_amd64.zip](https://github.com/steipete/camsnap/releases/download/v0.5.0/camsnap_0.5.0_windows_amd64.zip) | 4.6 MiB | `native/win/x64` |
-| [camsnap_0.5.0_windows_arm64.zip](https://github.com/steipete/camsnap/releases/download/v0.5.0/camsnap_0.5.0_windows_arm64.zip) | 4.1 MiB | `native/win/arm64` |
-| [checksums.txt](https://github.com/steipete/camsnap/releases/download/v0.5.0/checksums.txt) | 594 B | `other` |
+| [camsnap_0.5.1_darwin_amd64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.5.1/camsnap_0.5.1_darwin_amd64.tar.gz) | 4.6 MiB | `native/darwin/x64` |
+| [camsnap_0.5.1_darwin_arm64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.5.1/camsnap_0.5.1_darwin_arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
+| [camsnap_0.5.1_linux_amd64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.5.1/camsnap_0.5.1_linux_amd64.tar.gz) | 4.5 MiB | `native/linux/x64` |
+| [camsnap_0.5.1_linux_arm64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.5.1/camsnap_0.5.1_linux_arm64.tar.gz) | 4.0 MiB | `native/linux/arm64` |
+| [camsnap_0.5.1_windows_amd64.zip](https://github.com/steipete/camsnap/releases/download/v0.5.1/camsnap_0.5.1_windows_amd64.zip) | 4.6 MiB | `native/win/x64` |
+| [camsnap_0.5.1_windows_arm64.zip](https://github.com/steipete/camsnap/releases/download/v0.5.1/camsnap_0.5.1_windows_arm64.zip) | 4.1 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/steipete/camsnap/releases/download/v0.5.1/checksums.txt) | 594 B | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for camsnap lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:27:01Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:39:38Z._
