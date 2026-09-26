@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4872039,
       "digest": "sha256:904f7dce4883a0873d73bb5425a43dde82535d37a4636ff7fab33bcaabde2e44",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-09-23T07:48:58Z",
       "updated_at": "2026-09-23T07:48:59Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.5.2/camsnap_0.5.2_darwin_amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4345545,
       "digest": "sha256:7989c97850f19afab2ac4cd221d4b49471e9fce34105ff9f26f8dadaf588054f",
-      "download_count": 756,
+      "download_count": 974,
       "created_at": "2026-09-23T07:48:59Z",
       "updated_at": "2026-09-23T07:49:00Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.5.2/camsnap_0.5.2_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4673710,
       "digest": "sha256:79a12e6a546e1fc46958225e6f27f82f9954038fbb2e26e7cc0a3b02c4522237",
-      "download_count": 346,
+      "download_count": 487,
       "created_at": "2026-09-23T07:49:00Z",
       "updated_at": "2026-09-23T07:49:01Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.5.2/camsnap_0.5.2_linux_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4211586,
       "digest": "sha256:42d4a3f31a166ed1db757ab670277bca1027ae5fa6e2b02ffffb044b5afab14e",
-      "download_count": 236,
+      "download_count": 352,
       "created_at": "2026-09-23T07:49:01Z",
       "updated_at": "2026-09-23T07:49:02Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.5.2/camsnap_0.5.2_linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4852374,
       "digest": "sha256:f09ede715984a4a56e4d671f8b189885806365108216c7f33b4f5ef9ca1210d4",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-09-23T07:48:56Z",
       "updated_at": "2026-09-23T07:48:56Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.5.2/camsnap_0.5.2_windows_amd64.zip"
