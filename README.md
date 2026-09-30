@@ -33,27 +33,27 @@ Total: **8,044** lines of code across **61** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.2` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-30
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 144 · **Forks**: 17 · **Open issues**: 3 · **Contributors**: 4
+- **Stars**: 146 · **Forks**: 17 · **Open issues**: 3 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 22 · **Open PRs**: 1 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 83
+- **Releases**: 9 · **Merged PRs**: 23 · **Open PRs**: 1 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 84
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 3 | 8 | 1 | 0 | 0 | 8 |
-| last60d | 2026-07-30 | 6 | 18 | 1 | 0 | 0 | 19 |
-| 90d | 2026-06-30 | 6 | 21 | 1 | 0 | 0 | 30 |
-| last180d | 2026-04-01 | 8 | 21 | 1 | 2 | 0 | 48 |
-| 360d | 2025-10-03 | 9 | 22 | 1 | 3 | 0 | 82 |
-| last720d | 2024-10-08 | 9 | 22 | 1 | 3 | 0 | 83 |
+| 30d | 2026-08-31 | 3 | 9 | 1 | 0 | 0 | 9 |
+| last60d | 2026-08-01 | 6 | 17 | 1 | 0 | 0 | 20 |
+| 90d | 2026-07-02 | 6 | 20 | 1 | 0 | 0 | 31 |
+| last180d | 2026-04-03 | 8 | 22 | 1 | 2 | 0 | 49 |
+| 360d | 2025-10-05 | 9 | 23 | 1 | 3 | 0 | 83 |
+| last720d | 2024-10-10 | 9 | 23 | 1 | 3 | 0 | 84 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for camsnap lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:37:25Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:47:40Z._
