@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4910750,
       "digest": "sha256:4db2cce743d12c7869c8988cb72a90c97c4864f967486b4b76ff3aceb520ab9e",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-10-24T01:47:23Z",
       "updated_at": "2026-10-24T01:47:24Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_darwin_amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4385641,
       "digest": "sha256:a3170a14682c75609413de92e12aedf31b9ef3049a5d379ea5687f93de418e60",
-      "download_count": 1581,
+      "download_count": 1787,
       "created_at": "2026-10-24T01:47:25Z",
       "updated_at": "2026-10-24T01:47:26Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4686747,
       "digest": "sha256:2c711d8654159b85b3c1ec37c4305b795a5c6f5c3e2142f8a99ca30816dcb35d",
-      "download_count": 797,
+      "download_count": 954,
       "created_at": "2026-10-24T01:47:26Z",
       "updated_at": "2026-10-24T01:47:27Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_linux_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4227251,
       "digest": "sha256:1d2f46457256ad4d8306628b5ffb9a82bc4e39f25c9dc6001394d7d80ba725ba",
-      "download_count": 679,
+      "download_count": 825,
       "created_at": "2026-10-24T01:47:15Z",
       "updated_at": "2026-10-24T01:47:18Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 594,
       "digest": "sha256:2456ad0a1b0c48996d2a196a1019593b98c130dba5ca4a020c61cf48ff334a72",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-24T01:47:28Z",
       "updated_at": "2026-10-24T01:47:28Z",
       "browser_download_url": "https://github.com/steipete/camsnap/releases/download/v0.6.2/checksums.txt"
