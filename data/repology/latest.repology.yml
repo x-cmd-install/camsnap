@@ -3,7 +3,7 @@
   binname: camsnap
   visiblename: misc/camsnap
   version: 0.2.1
-  origversion: 0.2.1_7
+  origversion: 0.2.1_8
   status: unique
   summary: CLI to access RTSP/ONVIF devices (e.g. IP cameras)
   maintainers:
