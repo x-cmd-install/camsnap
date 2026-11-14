@@ -42,18 +42,18 @@ Total: **8,716** lines of code across **70** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 29 · **Open PRs**: 4 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 91
+- **Releases**: 12 · **Merged PRs**: 29 · **Open PRs**: 1 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 91
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 4 | 4 | 0 | 0 | 5 |
-| last60d | 2026-09-14 | 5 | 13 | 4 | 0 | 0 | 15 |
-| 90d | 2026-08-15 | 7 | 19 | 4 | 0 | 0 | 24 |
-| last180d | 2026-05-17 | 10 | 28 | 4 | 0 | 0 | 48 |
-| 360d | 2025-11-18 | 12 | 29 | 4 | 3 | 0 | 90 |
-| last720d | 2024-11-23 | 12 | 29 | 4 | 3 | 0 | 91 |
+| 30d | 2026-10-15 | 2 | 4 | 1 | 0 | 0 | 5 |
+| last60d | 2026-09-15 | 5 | 13 | 1 | 0 | 0 | 15 |
+| 90d | 2026-08-16 | 7 | 19 | 1 | 0 | 0 | 24 |
+| last180d | 2026-05-18 | 10 | 28 | 1 | 0 | 0 | 48 |
+| 360d | 2025-11-19 | 12 | 29 | 1 | 3 | 0 | 90 |
+| last720d | 2024-11-24 | 12 | 29 | 1 | 3 | 0 | 91 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for camsnap lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:31:35Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:19:58Z._
