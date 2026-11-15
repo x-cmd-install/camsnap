@@ -14,11 +14,11 @@ x install camsnap
 
 ## Code insight
 
-Total: **8,716** lines of code across **70** files in the top 5 languages.
+Total: **8,855** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 7,736 | 201 | 785 | 64 |
+| Go | 7,875 | 204 | 796 | 66 |
 | ObjectiveC | 778 | 2 | 108 | 2 |
 | Sh | 106 | 6 | 15 | 1 |
 | CHeader | 40 | 0 | 11 | 2 |
@@ -33,27 +33,27 @@ Total: **8,716** lines of code across **70** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.2` (2026-10-24)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-14
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 148 · **Forks**: 17 · **Open issues**: 3 · **Contributors**: 5
+- **Stars**: 149 · **Forks**: 17 · **Open issues**: 3 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 29 · **Open PRs**: 1 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 91
+- **Releases**: 12 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 92
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 4 | 1 | 0 | 0 | 5 |
-| last60d | 2026-09-15 | 5 | 13 | 1 | 0 | 0 | 15 |
-| 90d | 2026-08-16 | 7 | 19 | 1 | 0 | 0 | 24 |
-| last180d | 2026-05-18 | 10 | 28 | 1 | 0 | 0 | 48 |
-| 360d | 2025-11-19 | 12 | 29 | 1 | 3 | 0 | 90 |
-| last720d | 2024-11-24 | 12 | 29 | 1 | 3 | 0 | 91 |
+| 30d | 2026-10-16 | 2 | 5 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-16 | 5 | 14 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-17 | 7 | 20 | 0 | 0 | 0 | 22 |
+| last180d | 2026-05-19 | 10 | 29 | 0 | 0 | 0 | 48 |
+| 360d | 2025-11-20 | 12 | 30 | 0 | 3 | 0 | 91 |
+| last720d | 2024-11-25 | 12 | 30 | 0 | 3 | 0 | 92 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for camsnap lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:19:58Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:19:13Z._
