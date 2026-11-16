@@ -32,8 +32,8 @@ Total: **8,855** lines of code across **72** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.6.2` (2026-10-24)
-- **Last commit**: 2026-11-14
+- **Latest**: `v0.6.3` (2026-11-16)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,30 +42,30 @@ Total: **8,855** lines of code across **72** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 92
+- **Releases**: 13 · **Merged PRs**: 31 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 93
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 5 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-16 | 5 | 14 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-17 | 7 | 20 | 0 | 0 | 0 | 22 |
-| last180d | 2026-05-19 | 10 | 29 | 0 | 0 | 0 | 48 |
-| 360d | 2025-11-20 | 12 | 30 | 0 | 3 | 0 | 91 |
-| last720d | 2024-11-25 | 12 | 30 | 0 | 3 | 0 | 92 |
+| 30d | 2026-10-17 | 3 | 6 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-17 | 6 | 15 | 0 | 0 | 0 | 11 |
+| 90d | 2026-08-18 | 8 | 21 | 0 | 0 | 0 | 23 |
+| last180d | 2026-05-20 | 11 | 30 | 0 | 0 | 0 | 49 |
+| 360d | 2025-11-21 | 13 | 31 | 0 | 3 | 0 | 92 |
+| last720d | 2024-11-26 | 13 | 31 | 0 | 3 | 0 | 93 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [camsnap_0.6.2_darwin_amd64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_darwin_amd64.tar.gz) | 4.7 MiB | `native/darwin/x64` |
-| [camsnap_0.6.2_darwin_arm64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_darwin_arm64.tar.gz) | 4.2 MiB | `native/darwin/arm64` |
-| [camsnap_0.6.2_linux_amd64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_linux_amd64.tar.gz) | 4.5 MiB | `native/linux/x64` |
-| [camsnap_0.6.2_linux_arm64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_linux_arm64.tar.gz) | 4.0 MiB | `native/linux/arm64` |
-| [camsnap_0.6.2_windows_amd64.zip](https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_windows_amd64.zip) | 4.6 MiB | `native/win/x64` |
-| [camsnap_0.6.2_windows_arm64.zip](https://github.com/steipete/camsnap/releases/download/v0.6.2/camsnap_0.6.2_windows_arm64.zip) | 4.1 MiB | `native/win/arm64` |
-| [checksums.txt](https://github.com/steipete/camsnap/releases/download/v0.6.2/checksums.txt) | 594 B | `other` |
+| [camsnap_0.6.3_darwin_amd64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.6.3/camsnap_0.6.3_darwin_amd64.tar.gz) | 4.7 MiB | `native/darwin/x64` |
+| [camsnap_0.6.3_darwin_arm64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.6.3/camsnap_0.6.3_darwin_arm64.tar.gz) | 4.2 MiB | `native/darwin/arm64` |
+| [camsnap_0.6.3_linux_amd64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.6.3/camsnap_0.6.3_linux_amd64.tar.gz) | 4.5 MiB | `native/linux/x64` |
+| [camsnap_0.6.3_linux_arm64.tar.gz](https://github.com/steipete/camsnap/releases/download/v0.6.3/camsnap_0.6.3_linux_arm64.tar.gz) | 4.0 MiB | `native/linux/arm64` |
+| [camsnap_0.6.3_windows_amd64.zip](https://github.com/steipete/camsnap/releases/download/v0.6.3/camsnap_0.6.3_windows_amd64.zip) | 4.6 MiB | `native/win/x64` |
+| [camsnap_0.6.3_windows_arm64.zip](https://github.com/steipete/camsnap/releases/download/v0.6.3/camsnap_0.6.3_windows_arm64.zip) | 4.1 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/steipete/camsnap/releases/download/v0.6.3/checksums.txt) | 594 B | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for camsnap lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:19:13Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:46:02Z._
