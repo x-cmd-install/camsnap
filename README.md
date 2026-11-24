@@ -48,12 +48,12 @@ Total: **8,855** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-24 | 4 | 8 | 0 | 0 | 0 | 9 |
-| 90d | 2026-08-25 | 7 | 18 | 0 | 0 | 0 | 20 |
-| last180d | 2026-05-27 | 11 | 30 | 0 | 0 | 0 | 49 |
-| 360d | 2025-11-28 | 13 | 31 | 0 | 3 | 0 | 73 |
-| last720d | 2024-12-03 | 13 | 31 | 0 | 3 | 0 | 93 |
+| 30d | 2026-10-25 | 1 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-25 | 4 | 8 | 0 | 0 | 0 | 9 |
+| 90d | 2026-08-26 | 7 | 18 | 0 | 0 | 0 | 20 |
+| last180d | 2026-05-28 | 11 | 30 | 0 | 0 | 0 | 49 |
+| 360d | 2025-11-29 | 13 | 31 | 0 | 3 | 0 | 73 |
+| last720d | 2024-12-04 | 13 | 31 | 0 | 3 | 0 | 93 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for camsnap lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:49:59Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:39:24Z._
